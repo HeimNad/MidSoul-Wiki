@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MidSoul Wiki 更新日志</title>
+        <link>https://heimnad.github.io/MidSoul-Wiki/blog</link>
+        <description>MidSoul Wiki Blog</description>
+        <lastBuildDate>Sun, 01 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[v2.4 更新日志]]></title>
+            <link>https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4</link>
+            <guid>https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4</guid>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[新增内容]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="新增内容">新增内容<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4#%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9" class="hash-link" aria-label="新增内容的直接链接" title="新增内容的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">新增回响效果「一瞥惊鸿影」：守卫者在距灵魂 8 格外时隐身并生成残影</li>
+<li class="">新增天赋「气息感知」：感知附近守卫者的方向</li>
+<li class="">地图「心火特区」新增隐藏跑酷区域</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="平衡调整">平衡调整<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4#%E5%B9%B3%E8%A1%A1%E8%B0%83%E6%95%B4" class="hash-link" aria-label="平衡调整的直接链接" title="平衡调整的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="灵魂方">灵魂方<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4#%E7%81%B5%E9%AD%82%E6%96%B9" class="hash-link" aria-label="灵魂方的直接链接" title="灵魂方的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">垂死状态初始持续时间：75 s → 60 s</li>
+<li class="">救助交互时间：5 s → 7 s（当场上仅有 1 名活跃灵魂时仍为 3.5 s）</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="守卫者方">守卫者方<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4#%E5%AE%88%E5%8D%AB%E8%80%85%E6%96%B9" class="hash-link" aria-label="守卫者方的直接链接" title="守卫者方的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">擦刀状态持续时间：5 s → 7 s</li>
+<li class="">充能阶段进入后移速加成：+30% → +20%</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="能力调整">能力调整<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4#%E8%83%BD%E5%8A%9B%E8%B0%83%E6%95%B4" class="hash-link" aria-label="能力调整的直接链接" title="能力调整的直接链接" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>幻影迷踪</strong>：隐身期间移速加成 120% → 100%；距守卫者 12 格内改为 140%（新增）</li>
+<li class=""><strong>逆向追踪</strong>：冷却时间 70 s → 65 s</li>
+<li class=""><strong>铤而走险</strong>：负面效果触发概率 50% → 40%</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="问题修复">问题修复<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/03/01/v2-4#%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="问题修复的直接链接" title="问题修复的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">修复灵魂在传送门充能过程中被击倒后充能进度不重置的问题</li>
+<li class="">修复多守卫对局中第二传送门发光判定异常的问题</li>
+<li class="">修复守卫者意外进入死亡侦测区后被视为旁观者的判定条件不准确的问题</li>
+</ul>]]></content:encoded>
+            <category>新功能</category>
+            <category>平衡调整</category>
+            <category>能力调整</category>
+        </item>
+        <item>
+            <title><![CDATA[v2.3 更新日志]]></title>
+            <link>https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3</link>
+            <guid>https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[新增内容]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="新增内容">新增内容<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3#%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9" class="hash-link" aria-label="新增内容的直接链接" title="新增内容的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">新增地图「山间湖谷」，支持 5 ~ 10 人对局，碎片目标 40 个</li>
+<li class="">新增回响效果「九次九重片」与「先抑再后扬」</li>
+<li class="">新增个人设置项「回响提示」：游戏中周期性提示当前回响效果</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="地图更新">地图更新<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3#%E5%9C%B0%E5%9B%BE%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="地图更新的直接链接" title="地图更新的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="心火特区">心火特区<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3#%E5%BF%83%E7%81%AB%E7%89%B9%E5%8C%BA" class="hash-link" aria-label="心火特区的直接链接" title="心火特区的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">调整部分遮蔽物位置，改善守卫者视野过差的区域</li>
+<li class="">新增一处灵魂宝物盒刷新点</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="聚光圣殿">聚光圣殿<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3#%E8%81%9A%E5%85%89%E5%9C%A3%E6%AE%BF" class="hash-link" aria-label="聚光圣殿的直接链接" title="聚光圣殿的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">宝盒周期刷新数：4 → 5</li>
+<li class="">修复地图边缘区域可穿出地图的问题</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="平衡调整">平衡调整<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3#%E5%B9%B3%E8%A1%A1%E8%B0%83%E6%95%B4" class="hash-link" aria-label="平衡调整的直接链接" title="平衡调整的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">多守卫特殊机制：灵魂受到伤害减免 -20% → -20%（保持不变），现在额外生成的暗传送门在剩余时间不足 <strong>42s</strong> 时才会发光（原为 60s）</li>
+<li class="">进度经验奖励计算修正：短期分权重更新</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="问题修复">问题修复<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2026/01/15/v2-3#%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="问题修复的直接链接" title="问题修复的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">修复「命运交响曲」回响效果在少于 3 人时仍会触发位置交换的问题</li>
+<li class="">修复灵魂宝物盒在特定情况下不刷新的问题</li>
+<li class="">修复表现分「困缚守卫」项偶尔少计 1 秒的问题</li>
+</ul>]]></content:encoded>
+            <category>新功能</category>
+            <category>地图更新</category>
+            <category>问题修复</category>
+        </item>
+    </channel>
+</rss>

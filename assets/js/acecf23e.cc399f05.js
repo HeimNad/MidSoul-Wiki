@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmid_soul_wiki=globalThis.webpackChunkmid_soul_wiki||[]).push([[1903],{1912(i){i.exports=JSON.parse('{"blogBasePath":"/MidSoul-Wiki/blog","blogTitle":"\u66f4\u65b0\u65e5\u5fd7","authorsListPath":"/MidSoul-Wiki/blog/authors"}')}}]);
