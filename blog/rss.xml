@@ -85,5 +85,75 @@
             <category>地图更新</category>
             <category>问题修复</category>
         </item>
+        <item>
+            <title><![CDATA[v1.0.x 灵魂与守卫]]></title>
+            <link>https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v1-0-x</link>
+            <guid>https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v1-0-x</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[初始发布]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="初始发布">初始发布<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v1-0-x#%E5%88%9D%E5%A7%8B%E5%8F%91%E5%B8%83" class="hash-link" aria-label="初始发布的直接链接" title="初始发布的直接链接" translate="no">​</a></h2>
+<p>这是《午夜灵魂》(MidSoul) 项目的第一个公开版本，确立了核心的「灵魂 vs 守卫」游戏循环。</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="核心特性">核心特性<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v1-0-x#%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7" class="hash-link" aria-label="核心特性的直接链接" title="核心特性的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">建立了基础的游戏对抗逻辑</li>
+<li class="">灵魂方与守卫方的初始职业设定</li>
+<li class="">基础的地图交互与得分系统</li>
+</ul>]]></content:encoded>
+            <category>新功能</category>
+        </item>
+        <item>
+            <title><![CDATA[v2.0.x 回响纪元]]></title>
+            <link>https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x</link>
+            <guid>https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[跨版本重大更新]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="跨版本重大更新">跨版本重大更新<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x#%E8%B7%A8%E7%89%88%E6%9C%AC%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="跨版本重大更新的直接链接" title="跨版本重大更新的直接链接" translate="no">​</a></h2>
+<p>这是一个跨版本的重大更新，需要搭配 <strong>1.21.11</strong> 版本的「午夜灵魂」新地图使用。</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="新增系统">新增系统<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x#%E6%96%B0%E5%A2%9E%E7%B3%BB%E7%BB%9F" class="hash-link" aria-label="新增系统的直接链接" title="新增系统的直接链接" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>回响系统 (Echo System)</strong>：全新的能力自定义体系</li>
+<li class=""><strong>饰品系统 (Decoration System)</strong>：个性化装饰与属性加成</li>
+<li class=""><strong>新手教程系统</strong>：帮助新玩家快速上手</li>
+<li class=""><strong>内置背景音乐</strong>：增强对局沉浸感</li>
+<li class=""><strong>短期计分系统</strong>：优化对局评价维度</li>
+<li class=""><strong>能力选择与个人设置</strong>：支持玩家深度定制</li>
+<li class=""><strong>调试面板 (Debug Panel)</strong>：支持自定义地图与阵营选择</li>
+<li class=""><strong>新地图</strong>：新增「心火特区」 (Heart Fire Special Zone)</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="体验优化">体验优化<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x#%E4%BD%93%E9%AA%8C%E4%BC%98%E5%8C%96" class="hash-link" aria-label="体验优化的直接链接" title="体验优化的直接链接" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>主大厅与调试面板</strong>：完成迭代升级</li>
+<li class=""><strong>进度系统</strong>：全面重构，流程更丝滑</li>
+<li class=""><strong>战斗反馈</strong>：<!-- -->
+<ul>
+<li class="">新增天赋冷却显示</li>
+<li class="">全能力标签显示</li>
+<li class="">优化了动画、特效与 UI（如 Soul Lamp 尺寸调整）</li>
+<li class="">为灵魂方新增受击后的短暂无敌帧</li>
+<li class="">灵魂守护者重连机制优化</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="平衡性调整">平衡性调整<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x#%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4" class="hash-link" aria-label="平衡性调整的直接链接" title="平衡性调整的直接链接" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>传送门机制</strong>：<!-- -->
+<ul>
+<li class="">现在需要交互才能开启</li>
+<li class="">累计交互时间调整为 50s</li>
+</ul>
+</li>
+<li class=""><strong>守卫者限制</strong>：取消守卫者的暴击与横扫之刃触发，平衡对抗性</li>
+<li class=""><strong>交互优化</strong>：调整了魂灯、宝箱与碎片的交互时长</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_jRbx" id="问题修复">问题修复<a href="https://heimnad.github.io/MidSoul-Wiki/blog/2025/03/05/v2-0-x#%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="问题修复的直接链接" title="问题修复的直接链接" translate="no">​</a></h2>
+<ul>
+<li class="">修复了重新登录后能力效果持续存在的 bug</li>
+<li class="">修正了错误的死亡倒计时</li>
+<li class="">修复了灵魂宝箱的碰撞体积溢出问题</li>
+</ul>]]></content:encoded>
+            <category>新功能</category>
+            <category>地图更新</category>
+            <category>能力调整</category>
+        </item>
     </channel>
 </rss>

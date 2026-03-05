@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmid_soul_wiki=globalThis.webpackChunkmid_soul_wiki||[]).push([[8175],{3669(i){i.exports=JSON.parse('{"metadata":{"permalink":"/MidSoul-Wiki/blog","page":1,"postsPerPage":5,"totalPages":1,"totalCount":4,"blogDescription":"MidSoul \u7248\u672c\u66f4\u65b0\u8bb0\u5f55","blogTitle":"\u66f4\u65b0\u65e5\u5fd7"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmid_soul_wiki=globalThis.webpackChunkmid_soul_wiki||[]).push([[8556],{7255(e){e.exports=JSON.parse('{"authors":[{"name":"\u5fc3\u706b\u8ba1\u5212","title":"\u5236\u4f5c\u7ec4","url":"https://github.com/heart-fire-project","key":"hfp","page":null,"count":4}]}')}}]);
