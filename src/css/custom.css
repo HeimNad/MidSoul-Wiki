@@ -18,6 +18,7 @@
   --ifm-line-height-base: 2;
   --ifm-font-family-base: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   --ifm-heading-font-family: 'Noto Serif SC', serif;
+  --ifm-table-stripe-background: transparent;
 }
 
 /* ── Light mode tokens ──────────────────────────── */
@@ -406,8 +407,23 @@
   line-height: 1.8;
 }
 
+/* 首列灰色 */
+.markdown tbody td:first-child,
+.markdown thead th:first-child {
+  background: var(--ms-surface2);
+}
+
 .markdown tbody tr:hover td {
   background: var(--ms-surface);
+}
+
+.markdown td strong {
+  white-space: nowrap;
+}
+
+/* Muted / comment text */
+.muted {
+  color: var(--ms-text-muted);
 }
 
 /* Inline code */
