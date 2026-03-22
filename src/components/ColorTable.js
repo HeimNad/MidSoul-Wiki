@@ -25,7 +25,7 @@ export default function ColorTable({ header, cols, rows, cells, hideHeader, noFi
     const bg = c.bg ? (isDark ? darkBg(c.bg) : c.bg) : null;
     if (bg) rules.push(`${s} { background-color: ${bg} !important; }`);
     const textColor = c.text ?? (isDark ? AUTO_TEXT_DARK : AUTO_TEXT_LIGHT);
-    if (c.bg) rules.push(`${s} { color: ${textColor} !important; }`);
+    if (c.bg || c.text) rules.push(`${s} { color: ${textColor} !important; }`);
   };
 
   header?.forEach((val, i) => {
